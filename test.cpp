@@ -1,5 +1,8 @@
 #include<stdio.h>
-int main(){
+void function(){
 	printf("Hello world\n");
+}
+int main(){
+	function();
 	return 0;
 }
